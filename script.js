@@ -8,7 +8,7 @@
 const CONFIG = {
   shopName: "Pavan Tailors",
   owner: "Lakshmi Narasaiah",
-  address: "Near Government Hospital, Town Police Station side, Ahobilam Road, Allagadda, Andhra Pradesh - 518543",
+  address: "Near Government Hospital, Town Police Station beside, Ahobilam Road, Allagadda, Andhra Pradesh - 518543",
   phones: ["6305844824", "7382135328"],   // Shown and dialled in this order
   whatsapp: "916305844824",              // Country code + number, no "+" or spaces
   mapsQuery: "Pavan Tailors, Near Government Hospital, Ahobilam Road, Allagadda, Andhra Pradesh 518543",
@@ -26,8 +26,6 @@ const SERVICES = [
   { name: "Men's pant and trouser stitching", desc: "Formal and casual trousers cut to your waist, length and preferred fit.", price: "₹ 500 onwards" },
   { name: "Suit and blazer tailoring", desc: "Two-piece suits, blazers and jackets tailored for a sharp, comfortable fit.", price: "₹ 2,500 onwards" },
   { name: "Traditional wear and ethnic outfits", desc: "Kurtas, pyjamas, sherwanis and traditional outfits stitched to your measurements.", price: "₹ 1,200 onwards" },
-  { name: "Women's blouse stitching", desc: "Blouses with your choice of neck, back and sleeve design, fitted to you.", price: "₹ 400 onwards" },
-  { name: "Women's dress and custom outfit stitching", desc: "Dresses, salwar suits and custom outfits in the style you choose.", price: "₹ 900 onwards" },
   { name: "Alterations and fitting adjustments", desc: "Waist, length, sleeve and width adjustments for existing or ready-made clothes.", price: "₹ 80 onwards" },
   { name: "Uniform stitching", desc: "School, office and institution uniforms stitched in batches.", price: "₹ 550 onwards" },
   { name: "Children's clothing", desc: "Shirts, frocks, trousers and festive wear for children, sized to grow comfortably.", price: "₹ 300 onwards" },
