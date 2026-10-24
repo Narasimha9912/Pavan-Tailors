@@ -1,0 +1,5 @@
+# Replace YOUR-DOMAIN.example with your live website address
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
